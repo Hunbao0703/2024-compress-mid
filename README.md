@@ -1,11 +1,11 @@
 # 2024 compress mid
- 2024資料壓縮 期中
+2024資料壓縮 期中
 
- 1. languae: python, IDE: vs code
+1. languae: python, IDE: vs code
  
  2. library: json, heapq, os, bitarray
     
-     補充: 
+    補充: 
     
         heapq (用於排序nodes, 若使用lamba則會太過遲鈍, 導致速度過慢, 簡單測試後, 大概差接近5倍的時間)
 
@@ -25,10 +25,10 @@
 
 how to run?
 
- 1. run compress.py
+    1. run compress.py
 
- 2. 壓縮檔案 1, 解壓縮檔案 2
+    2. 壓縮檔案 1, 解壓縮檔案 2
 
- 3. 壓縮檔案須包含文件檔格式 (如 西遊記.txt)
+    3. 壓縮檔案須包含文件檔格式 (如 西遊記.txt)
 
- 4. 解壓縮同上 (如 西遊記.txt.huf)
+    4. 解壓縮同上 (如 西遊記.txt.huf)
